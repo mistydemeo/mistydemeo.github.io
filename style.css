@@ -1,0 +1,18 @@
+.jumbotron {
+    text-align: center;
+}
+.jumbotron h1 {
+    font-size: 100px;
+    line-height: 1;
+}
+body {
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.linkbox {
+    text-align: center;
+}
